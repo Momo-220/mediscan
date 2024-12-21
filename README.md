@@ -1,0 +1,2 @@
+# mediscan
+pharmatical ai assitant 
